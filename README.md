@@ -61,4 +61,5 @@
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 [Calculater](https://harun2906.github.io/Calculator/)<h3>[Repo](https://github.com/harun2906/Calculator)</h3> | HTML, PureCSS | ![Video_23-01-12_15-25-50](https://user-images.githubusercontent.com/118988723/212066839-aa35b164-2b20-45de-b68d-aed3bad87792.gif)
-[netflix_project](harun2906.github.io/netflix_project/)<h3>[Repo](harun2906.github.io/netflix_project/)</h3> | HTML, PureCSS | ![gif](./Video_23-01-16_03-32-36.gif)
+[netflix_project](https://harun2906.github.io/netflix_project/)<h3>[Repo](https://github.com/harun2906/netflix_project)</h3> | HTML, PureCSS | ![gif](./Video_23-01-16_03-32-36.gif)
+
