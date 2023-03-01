@@ -60,7 +60,6 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-
 [Bootsrap_project](https://harun2906.github.io/bootsrap_project/)<h3>[Repo](https://github.com/harun2906/bootsrap_project)</h3> | HTML, PureCSS Bootsrap |![Video_23-03-02_01-27-30](https://user-images.githubusercontent.com/118988723/222280963-6f47a489-0fdc-4dce-a1c2-012b4cf212c5.gif)
 [Wednesday_sass_project](https://harun2906.github.io/wednesday_sass_project/)<h3>[Repo](https://github.com/harun2906/wednesday_sass_project)</h3> | HTML, PureCSS Sass |![Video_23-03-01_23-26-03](https://user-images.githubusercontent.com/118988723/222266636-855c7e14-f36d-45fa-90b9-1bc084c056ba.gif)
 [Calculater](https://harun2906.github.io/Calculator/)<h3>[Repo](https://github.com/harun2906/Calculator)</h3> | HTML, PureCSS | ![Video_23-01-12_15-25-50](https://user-images.githubusercontent.com/118988723/212066839-aa35b164-2b20-45de-b68d-aed3bad87792.gif)
