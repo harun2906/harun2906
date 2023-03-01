@@ -60,6 +60,7 @@
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Wednesday_sass_project](https://harun2906.github.io/Calculator/)<h3>[Repo](https://github.com/harun2906/Calculator)</h3> | HTML, PureCSS | ![Video_23-01-12_15-25-50](https://user-images.githubusercontent.com/118988723/212066839-aa35b164-2b20-45de-b68d-aed3bad87792.gif)
 [Calculater](https://harun2906.github.io/Calculator/)<h3>[Repo](https://github.com/harun2906/Calculator)</h3> | HTML, PureCSS | ![Video_23-01-12_15-25-50](https://user-images.githubusercontent.com/118988723/212066839-aa35b164-2b20-45de-b68d-aed3bad87792.gif)
 [animation_project](https://harun2906.github.io/animation_project/)<h3>[Repo](https://github.com/harun2906/animation_project)</h3> | HTML, PureCSS,position;relative %% absolute,keyframes(traslatex) | ![Video_23-01-16_05-48-00](https://user-images.githubusercontent.com/118988723/212588127-7e568ba3-4651-4128-a23a-3946cf636574.gif)
 [Web_dizayn](https://harun2906.github.io/Web_dizayn/)<h3>[Repo](https://github.com/harun2906/Web_dizayn)</h3> | HTML, PureCSS | ![Video_23-01-16_06-21-15](https://user-images.githubusercontent.com/118988723/212592001-4371557b-1760-4552-a984-ea2de440e58d.gif)
